@@ -1,0 +1,37 @@
+
+/* ----------------------- global-setting---------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,700&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+html{
+  scroll-behavior: smooth;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+  color: #282932;
+}
+.img-text{
+  padding-bottom: 35px;
+  position: relative;
+}
+
+.img-text .title{
+  font-size: 35px;
+  padding-top: 10px;
+}
+.img-text p{
+  font-size: 20px;
+  line-height: 35px;
+  opacity: .8;
+  font-weight: 400;
+  color: #282932;
+}
+

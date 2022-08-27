@@ -1,0 +1,39 @@
+.orders{
+    padding-top: 60px;
+    padding-bottom: 90px;
+    background: #282932;
+    position: relative;
+    margin: 20px 0;
+}
+.orders::before{
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url("./fun-facts-line.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.orders .order-item{
+    padding: 50px 0;
+    background-image: url("./fun-facts.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.orders .order-item h3{
+    color: #fff;
+    font-size: 50px;
+    line-height: 55px;
+}
+.orders .order-item span{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 9px;
+    display: block;
+}
