@@ -10,4 +10,5 @@ https://github.com/khgamal005/Restaurant-redux/blob/2d11c5653dcc34f05405287c866f
 https://github.com/khgamal005/Restaurant-redux/blob/2d11c5653dcc34f05405287c866ffb08f8995959./images/Catogry/blog-3.jpg
 https://github.com/khgamal005/Restaurant-redux/blob/2d11c5653dcc34f05405287c866ffb08f8995959./images/Catogry/ins-1.jpg
 https://github.com/khgamal005/Restaurant-redux/blob/2d11c5653dcc34f05405287c866ffb08f8995959./images/Catogry/ins-5.jpg
+https://github.com/khgamal005/Restaurant-redux/blob/gh-pages./images/Dinner/1.png
 
