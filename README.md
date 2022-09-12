@@ -1,6 +1,5 @@
 # Restaurant-redux
-./images/Breakfast/1.png
-./images/Breakfast/2.png
+../images/Breakfast/2.png
 ./images/Breakfast/3.png
 ./images/Breakfast/4.png
 ./images/Breakfast/5.png
