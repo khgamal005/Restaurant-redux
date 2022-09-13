@@ -2,10 +2,10 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import "./Catogry.css"
-import icon from "./imgs/title-shape-2.png"
-import cat1 from "./imgs/category-1.jpg"
-import over from "./imgs/category-shapp.png"
-import cat2 from "./imgs/category-2.jpg"
+import icon from "../imgs/title-shape-2.png"
+import cat1 from "../imgs/category-1.jpg"
+import over from "../imgs/category-shapp.png"
+import cat2 from "../imgs/category-2.jpg"
 import CatItem from './CatItem'
 
 const Catogry = ({ getdata }) => {
