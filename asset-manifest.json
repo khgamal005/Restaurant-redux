@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Restaurant-redux/static/css/main.d9c3242e.css",
-    "main.js": "/Restaurant-redux/static/js/main.5cf5413b.js",
+    "main.js": "/Restaurant-redux/static/js/main.6969b303.js",
     "static/media/banner-bg.jpg": "/Restaurant-redux/static/media/banner-bg.de1a2a62db64ae2dfcec.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Restaurant-redux/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Logo.png": "/Restaurant-redux/static/media/Logo.772585fe00a0d4f70714.png",
@@ -22,10 +22,10 @@
     "static/media/slick.woff": "/Restaurant-redux/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Restaurant-redux/index.html",
     "main.d9c3242e.css.map": "/Restaurant-redux/static/css/main.d9c3242e.css.map",
-    "main.5cf5413b.js.map": "/Restaurant-redux/static/js/main.5cf5413b.js.map"
+    "main.6969b303.js.map": "/Restaurant-redux/static/js/main.6969b303.js.map"
   },
   "entrypoints": [
     "static/css/main.d9c3242e.css",
-    "static/js/main.5cf5413b.js"
+    "static/js/main.6969b303.js"
   ]
 }
